@@ -33,6 +33,6 @@ Webpack: A bundler and optimizer for project resources such as JavaScript, image
 
 classnames: A utility library for managing CSS classes in React components. Classnames simplifies the dynamic handling of classes based on component states.
 
-## link to the [layout] (https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?type=design&node-id=1-2&mode=design&t=DR3LMZbji7DnapoZ-0)
+## [layout](https://www.figma.com/file/uEetgWenSRxk9jgiym6Yzp/Phone-catalog-redesign?type=design&node-id=1-2&mode=design&t=DR3LMZbji7DnapoZ-0)
 
 ## [DEMO LINK](https://Viktoriia6666.github.io/phone-catalog/)
